@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debarati07.github.io/react-first/static/css/main.0db25aba.css",
+    "main.js": "/debarati07.github.io/react-first/static/js/main.e41064d6.js",
+    "static/js/787.4ef4913e.chunk.js": "/debarati07.github.io/react-first/static/js/787.4ef4913e.chunk.js",
+    "index.html": "/debarati07.github.io/react-first/index.html",
+    "main.0db25aba.css.map": "/debarati07.github.io/react-first/static/css/main.0db25aba.css.map",
+    "main.e41064d6.js.map": "/debarati07.github.io/react-first/static/js/main.e41064d6.js.map",
+    "787.4ef4913e.chunk.js.map": "/debarati07.github.io/react-first/static/js/787.4ef4913e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db25aba.css",
+    "static/js/main.e41064d6.js"
+  ]
+}
